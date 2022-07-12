@@ -1,0 +1,8 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyCTS9xF6UxvgWQha3jkEqQ-LuG3w2J26es",
+  authDomain: "autodromo-f8d72.firebaseapp.com",
+  projectId: "autodromo-f8d72",
+  storageBucket: "autodromo-f8d72.appspot.com",
+  messagingSenderId: "135761749737",
+  appId: "1:135761749737:web:83c2085e95a48a10d6b278"
+};
